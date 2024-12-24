@@ -15,8 +15,8 @@ const Project = () => {
             <div className="flex flex-col md:flex-row w-full justify-between items-center">
               <div><h3 className="text-xl md:text-2xl my-2 md:my-4 font-bold">SAMSUNG</h3></div>
               <div className="flex gap-2 md:gap-4">
-                <p href="https://samsung-swart.vercel.app/" target="" className="btn text-btn py-1 px-2 md:py-2 md:px-4 border-2 border-btn rounded transition-transform duration-400 ease-custom opacity-80 hover:scale-110 hover:opacity-100 flex items-center text-contact cursor-pointer">DEMO</p>
-                <p href="https://github.com/ashu-0511/Samsung-clone" target="" className="btn text-btn py-1 px-2 md:py-2 md:px-4 border-2 border-btn rounded transition-transform duration-400 ease-custom opacity-80 hover:scale-110 hover:opacity-100 flex items-center text-contact cursor-pointer">CODE</p>
+                <p href="https://samsung-swart.vercel.app/" target="_blank" className="btn text-btn py-1 px-2 md:py-2 md:px-4 border-2 border-btn rounded transition-transform duration-400 ease-custom opacity-80 hover:scale-110 hover:opacity-100 flex items-center text-contact cursor-pointer">DEMO</p>
+                <p href="https://github.com/ashu-0511/Samsung-clone" target="_blank" className="btn text-btn py-1 px-2 md:py-2 md:px-4 border-2 border-btn rounded transition-transform duration-400 ease-custom opacity-80 hover:scale-110 hover:opacity-100 flex items-center text-contact cursor-pointer">CODE</p>
               </div>
             </div>
             <p className="text-base md:text-lg leading-relaxed mt-2 md:mt-4">
