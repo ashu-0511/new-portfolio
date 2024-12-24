@@ -1,0 +1,33 @@
+body {
+    color: white;
+    font-family: "Raleway", sans-serif;
+}
+
+.resume-strip {
+    background-color: #00909c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    cursor: pointer;
+    transition: all 0.7s ease-in-out;
+}
+
+.resume-icon,
+.resume-text {
+    font-size: 24px;
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #00B7C7;
+}
+
+input,
+textarea {
+    background-color: transparent;
+    border-bottom: 2px solid gray;
+
+}
